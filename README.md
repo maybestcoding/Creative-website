@@ -1,2 +1,2 @@
 # Creative-website
-Make resposive website using CSS Media Queries
+Make responsive website using CSS Media Queries
